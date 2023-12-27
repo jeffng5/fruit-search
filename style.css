@@ -1,0 +1,41 @@
+div {
+  color: whitesmoke;
+ 
+}
+
+
+
+body {
+  background: linear-gradient(to right, forestgreen , teal, aqua);
+}
+
+input#fruit {
+  color: black;
+  font-size: medium;
+}
+
+.search-container {
+  color: black;
+  
+}
+
+
+option {
+  background-color: darkcyan;
+  color: whitesmoke;
+}
+
+button {
+  position: absolute;
+  bottom: 85px;
+  left: 200px;
+  border-radius : 8px;
+  padding: 10px;
+  background-color: blue;
+  color: whitesmoke;
+}
+
+h2{
+color: yellow;
+
+}
